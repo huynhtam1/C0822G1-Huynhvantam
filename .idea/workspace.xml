@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3bac7674-9097-44c6-a7c6-f379b51fd408" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/ss5_bai_tap_thuc_hanh/bai_tap/bai_tap_tao_bang_nang_cao.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ss6_tong_quan_js/thuc_hanh/thuc_hanh_nhung_js.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ss4_git_html/bai_tap_tao_danh_sach_html.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ss4_git_html/tao_ca_nhan_cong_viec_trang-html.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ss4_git_html/thuc_hanh_su_dung_html_the.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ss5_bai_tap_thuc_hanh/bai_tao_form_don_gian.html" beforeDir="false" afterPath="$PROJECT_DIR$/ss5_bai_tap_thuc_hanh/bai_tap/bai_tao_form_don_gian.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ss5_bai_tap_thuc_hanh/bai_tap_tao_ban_don_giang.html" beforeDir="false" afterPath="$PROJECT_DIR$/ss5_bai_tap_thuc_hanh/bai_tap/bai_tap_tao_ban_don_giang.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ss5_bai_tap_thuc_hanh/simpleform.html" beforeDir="false" afterPath="$PROJECT_DIR$/ss5_bai_tap_thuc_hanh/thuc_hanh/simpleform.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ss5_bai_tap_thuc_hanh/tablesimple.html" beforeDir="false" afterPath="$PROJECT_DIR$/ss5_bai_tap_thuc_hanh/thuc_hanh/tablesimple.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ss5_bai_tap_thuc_hanh/tao_bang_nang_cao.html" beforeDir="false" afterPath="$PROJECT_DIR$/ss5_bai_tap_thuc_hanh/thuc_hanh/tao_bang_nang_cao.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ss5_bai_tap_thuc_hanh/tao_form_lay_sevey_khach_hang.html" beforeDir="false" afterPath="$PROJECT_DIR$/ss5_bai_tap_thuc_hanh/bai_tap/tao_form_lay_sevey_khach_hang.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ss5_bai_tap_thuc_hanh/tao_giao_dien-from_dk_nguoi_dung.html" beforeDir="false" afterPath="$PROJECT_DIR$/ss5_bai_tap_thuc_hanh/bai_tap/tao_giao_dien-from_dk_nguoi_dung.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ss5_bai_tap_thuc_hanh/thuc_hanh_tao_from_tim_kiem_google.html" beforeDir="false" afterPath="$PROJECT_DIR$/ss5_bai_tap_thuc_hanh/thuc_hanh/thuc_hanh_tao_from_tim_kiem_google.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ádasdasd/ấdasda.html" beforeDir="false" afterPath="$PROJECT_DIR$/ss6_tong_quan_js/thuc_hanh/thuc_hanh_hien_thi_dau_ra.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2EKN0FDTrKUil34eS3Ya6iKTvAM" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\codegym\C0822G1-Huynhvantam" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\codegym\C0822G1-Huynhvantam\ss4_git_and_html\bai_tap" />
+      <recent name="D:\codegym\C0822G1-Huynhvantam\ss4_git_and_html\thuc_hanh" />
+      <recent name="D:\codegym\C0822G1-Huynhvantam\ss5_bai_tap_thuc_hanh\thuc_hanh" />
+      <recent name="D:\codegym\C0822G1-Huynhvantam\ss5_bai_tap_thuc_hanh\bai_tap" />
+      <recent name="D:\codegym\C0822G1-Huynhvantam\ss4_git_html" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3bac7674-9097-44c6-a7c6-f379b51fd408" name="Default Changelist" comment="" />
+      <created>1662340090151</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1662340090151</updated>
+      <workItem from="1662340092771" duration="932000" />
+      <workItem from="1662346070443" duration="33509000" />
+      <workItem from="1662433319018" duration="51568000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="362" y="167" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1662378319638">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="362" y="167" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1662378319638" />
+    <state x="339" y="162" key="run.anything.popup" timestamp="1662519099261">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="339" y="162" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1662519099261" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1662432576789">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1662432576789" />
+  </component>
+</project>

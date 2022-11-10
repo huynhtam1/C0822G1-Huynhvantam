@@ -20,20 +20,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3bac7674-9097-44c6-a7c6-f379b51fd408" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/ss5_bai_tap_thuc_hanh/bai_tap/bai_tap_tao_bang_nang_cao.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ss6_tong_quan_js/thuc_hanh/thuc_hanh_nhung_js.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ss4_git_html/bai_tap_tao_danh_sach_html.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ss4_git_html/tao_ca_nhan_cong_viec_trang-html.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ss4_git_html/thuc_hanh_su_dung_html_the.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ss5_bai_tap_thuc_hanh/bai_tao_form_don_gian.html" beforeDir="false" afterPath="$PROJECT_DIR$/ss5_bai_tap_thuc_hanh/bai_tap/bai_tao_form_don_gian.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ss5_bai_tap_thuc_hanh/bai_tap_tao_ban_don_giang.html" beforeDir="false" afterPath="$PROJECT_DIR$/ss5_bai_tap_thuc_hanh/bai_tap/bai_tap_tao_ban_don_giang.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ss5_bai_tap_thuc_hanh/simpleform.html" beforeDir="false" afterPath="$PROJECT_DIR$/ss5_bai_tap_thuc_hanh/thuc_hanh/simpleform.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ss5_bai_tap_thuc_hanh/tablesimple.html" beforeDir="false" afterPath="$PROJECT_DIR$/ss5_bai_tap_thuc_hanh/thuc_hanh/tablesimple.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ss5_bai_tap_thuc_hanh/tao_bang_nang_cao.html" beforeDir="false" afterPath="$PROJECT_DIR$/ss5_bai_tap_thuc_hanh/thuc_hanh/tao_bang_nang_cao.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ss5_bai_tap_thuc_hanh/tao_form_lay_sevey_khach_hang.html" beforeDir="false" afterPath="$PROJECT_DIR$/ss5_bai_tap_thuc_hanh/bai_tap/tao_form_lay_sevey_khach_hang.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ss5_bai_tap_thuc_hanh/tao_giao_dien-from_dk_nguoi_dung.html" beforeDir="false" afterPath="$PROJECT_DIR$/ss5_bai_tap_thuc_hanh/bai_tap/tao_giao_dien-from_dk_nguoi_dung.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ss5_bai_tap_thuc_hanh/thuc_hanh_tao_from_tim_kiem_google.html" beforeDir="false" afterPath="$PROJECT_DIR$/ss5_bai_tap_thuc_hanh/thuc_hanh/thuc_hanh_tao_from_tim_kiem_google.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ádasdasd/ấdasda.html" beforeDir="false" afterPath="$PROJECT_DIR$/ss6_tong_quan_js/thuc_hanh/thuc_hanh_hien_thi_dau_ra.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ss7_bien_toan_tu/aaaa.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ss7_bien_toan_tu/adasd.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ss7_bien_toan_tu/code.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -93,7 +83,11 @@
       <updated>1662340090151</updated>
       <workItem from="1662340092771" duration="932000" />
       <workItem from="1662346070443" duration="33509000" />
-      <workItem from="1662433319018" duration="51568000" />
+      <workItem from="1662433319018" duration="52481000" />
+      <workItem from="1662553150367" duration="9009000" />
+      <workItem from="1662635956513" duration="1437000" />
+      <workItem from="1664278152395" duration="451000" />
+      <workItem from="1668062240119" duration="2594000" />
     </task>
     <servers />
   </component>
